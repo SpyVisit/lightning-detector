@@ -33,6 +33,9 @@ A lightning detector based on the AS3935 sensor (WCMCU-3935 module) and ESP32 mi
 | Power | 5V USB or 3.7V LiPo |
 
 ---
+## 📌 Pinout Diagram
+
+![TTGO Wemos ESP32 OLED Pinout](5dc3e1a0c1ee9.jpg)
 
 ## 🔌 Wiring
 
